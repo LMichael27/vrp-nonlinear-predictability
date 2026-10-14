@@ -1,0 +1,13 @@
+# Environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Large raw data (>100 MB, download from Kaggle — see README)
+data/1_min_SPY_2008-2021.csv
+
+# Copyrighted reference paper (cited in README)
+rfs_09.pdf

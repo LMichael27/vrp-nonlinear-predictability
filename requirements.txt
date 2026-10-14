@@ -1,0 +1,13 @@
+numpy
+pandas
+statsmodels
+patsy
+scipy
+scikit-learn
+matplotlib
+seaborn
+pygam
+yfinance
+pandas-datareader
+xlrd
+jupyter
